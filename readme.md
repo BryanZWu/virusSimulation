@@ -4,5 +4,5 @@ In particular, I modeled the proliferation of virus replicating in a patient's b
 In addition, I modeled the introduction of a drug to the body of the patient, and graphed using pylab
 the effects of the drug on the virus over time (population-time graph).
 
-Project completed for MIT 6.002X: Introduction to Computational Thinking and Data Science
+Project completed for MIT 6.002X: Introduction to Computational Thinking and Data Science.
 This course was an MOOC taken on EdX.
