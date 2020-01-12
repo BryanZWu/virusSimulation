@@ -6,3 +6,5 @@ the effects of the drug on the virus over time (population-time graph).
 
 Project completed for MIT 6.002X: Introduction to Computational Thinking and Data Science.
 This course was an MOOC taken on EdX.
+
+Run the code and modify the parameters of the simulation functions at the end to see how the viruses play out!
